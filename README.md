@@ -1,7 +1,7 @@
-This project is one of the many learning materials published by Thomson Reuters to help developers learning Thomson Reuters APIs.
+This project is one of the many learning materials published by LSEG to help developers learning our APIs.
 
-This project source code is one of the [tutorials](https://developers.thomsonreuters.com/eikon-apis/eikon-web-and-scripting-apis-limited-access/learning?content=14707&type=learning_material_item) published on the Thomson Reuters Developer Community portal for the Thomson Reuters Eikon [Scripting Proxy API](https://developers.thomsonreuters.com/eikon-apis/eikon-web-and-scripting-apis-limited-access). Please consult this page for more learning materials and documentation about this API.
+This project source code is one of the [article]((https://developers.lseg.com/en/article-catalog/article/rating-transitions-matrix-python) published on LSEG Developer Community portal for the [LSEG Data Library](https://developers.lseg.com/en/api-catalog/lseg-data-platform/lseg-data-library-for-python). Please consult this page for more learning materials and documentation about this API.
 
-For any question related to this tutorial please use the [Developer Community Q&A Forum](https://community.developers.thomsonreuters.com/spaces/92/view.html).
+For any question related to this tutorial please use the [Developer Community Q&A Forum](https://community.developers.refinitiv.com/).
 
-**NOTE**: To be able to ask questions and to benefit from the full content available on the Thomson Reuters Developer Community portal we recommend you to register [here](https://developers.thomsonreuters.com/iam/register) or login [here](https://developers.thomsonreuters.com/iam/login).
+**NOTE**: To be able to ask questions and to benefit from the full content available on the LSEG Developer Community portal we recommend you to register [here](https://community.developers.refinitiv.com/entry/register?) or login [here](https://community.developers.refinitiv.com/entry/signin?).
